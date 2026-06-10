@@ -1,27 +1,25 @@
 # Marketing Documentation
 
-## Documents
+## Completed
 
-### Video Audit
-
+### EA-001 / EA-002 — Video Audit & Classification
 - Video-Audit.md
-- Content analysis and classification.
 
-### Content Library
-
+### EA-003 — Content Library
 - Content-Library.md
-- Asset organization system and metadata structure.
 
-### Content Strategy
+### EA-004 — Priority Content Selection
+- Priority-Content-Selection.md
 
+### EA-005 — Content Strategy
 - Content-Strategy.md
-- Content pillars and publication strategy.
 
-### Content Calendar
+## In Progress
 
+### EA-006 — Editorial Calendar
 - Content-Calendar.md
-- Publication planning.
 
-### Campaign Planning
+## Future
 
-- Future advertising campaigns.
+### EA-007 — Campaign Planning
+- Pending
